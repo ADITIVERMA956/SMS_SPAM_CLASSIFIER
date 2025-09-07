@@ -102,7 +102,7 @@ git push origin feature/your-feature-name
 ---
 ## 👩‍💻 Author  
 
-Developed with ❤️ by **Aditi Verma**  
+Built by **Aditi Verma**  
 📧 Email: [aditivns9569@gmail.com](mailto:aditivns9569@gmail.com)  
 🌐 GitHub: [ADITIVERMA956](https://github.com/ADITIVERMA956)  
 
